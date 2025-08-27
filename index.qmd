@@ -44,12 +44,6 @@ format:
 11. Pearl, R. 1928. The rate of living. Knop, New York
 12. 
 
-`<object data="C:/Users/felic/OneDrive/Documents/Etudes/M.sc/Presentation/CHS/CHS.pdf" `{=html}
+<iframe src="CHS.pdf" width="100%" height="80vh" style="border:1px solid #ccc;">
 
-`type="application/pdf" `{=html}
-
-`width="100%" height="800px">`{=html}
-
-<p>Votre navigateur ne peut pas afficher le PDF. <a href="CHS.pdf">Télécharger le poster</a>.</p>
-
-</object>
+</iframe>
